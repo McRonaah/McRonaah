@@ -1,6 +1,6 @@
 
 <div id="header" align="center" color="black">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=ecf05e47u1q5rirnrflsax54srsaaq9wsg6oel2873i7f902&rid=giphy.gif&ct=g" width="100"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/ronald-kipchirchir-034983246/">
@@ -20,7 +20,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
 </div>
 :desktop_computer: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
