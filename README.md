@@ -4,12 +4,12 @@
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/ronald-kipchirchir-034983246/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white,ho" alt="LinkedIn Badge"/ target="_blank>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white,ho" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCoO82bia4WfA19iLEVUX2iw" target="_blank">
+  <a href="https://www.youtube.com/channel/UCoO82bia4WfA19iLEVUX2iw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/Ronaah_254/" target="_blank>
+  <a href="https://twitter.com/Ronaah_254/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
