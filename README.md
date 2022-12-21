@@ -27,9 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer and an open-source contributer.
 - :seedling: Exploring Technical Content & Blog Writing.
-- :zap: In my free time, I coach kids how to code.
 - 🔭 I’m currently working on HTML, CSS, JavaScript, Reactjs, Ruby & Ruby on rails.
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on Frontend Development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about HTML, CSS & Reactjs
@@ -44,4 +42,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://www.martincap.io/images/icons/devicon/rails/rails-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
-<!-- :fire: My Stats : -->
+## :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=McRonaah&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McRonaah)](https://github.com/anuraghazra/github-readme-stats)
+
+## :writing_hand: Blog Posts :
