@@ -29,7 +29,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content & Blog Writing.
 - 🔭 I’m currently working on HTML, CSS, JavaScript, Reactjs, Ruby & Ruby on rails.
 - 👯 I’m looking to collaborate on Frontend Development
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about HTML, CSS & Reactjs
 - 📫 How to reach me: email: ronaldcheruiyot342@gmail.com
 
