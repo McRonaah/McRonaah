@@ -52,4 +52,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <!-- BLOG-POST-LIST:START -->
 - [Moringa School Experience](https://dev.to/mcronaah_41/my-personal-profilemoringa-school-experience-3dg9)
+- [CodeJIKA ORG](https://medium.com/@ronaah254/codejika-program-learn-to-code-ac2dfd672782)
 <!-- BLOG-POST-LIST:END -->
