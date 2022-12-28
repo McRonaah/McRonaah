@@ -51,6 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Moringa School Experience](https://dev.to/mcronaah_41/my-personal-profilemoringa-school-experience-3dg9)
+- [Moringa School Experience](https://dev.to/ronaah_254/my-personal-profilemoringa-school-experience-3dg9)
+- [Cristiano Ronaldo The Football Genius](https://medium.com/@ronaah254/cristiano-ronaldo-the-football-genius-3282f5077bbb)
 - [CodeJIKA ORG](https://medium.com/@ronaah254/codejika-program-learn-to-code-ac2dfd672782)
 <!-- BLOG-POST-LIST:END -->
