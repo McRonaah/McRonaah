@@ -51,5 +51,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [Moringa School Experience](https://dev.to/mcronaah_41/my-personal-profilemoringa-school-experience-3dg9)
 <!-- BLOG-POST-LIST:END -->
