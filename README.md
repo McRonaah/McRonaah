@@ -1,7 +1,9 @@
 
 <div id="header" align="center" color="black">
-  <img src="https://media1.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=ecf05e47u1q5rirnrflsax54srsaaq9wsg6oel2873i7f902&rid=giphy.gif&ct=g" width="100"/>
-  
+  <h1>
+  Hey there! I'm Ronald Kipchirchir
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/ronald-kipchirchir-034983246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white,ho" alt="LinkedIn Badge"/>
@@ -14,10 +16,6 @@
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=McRonaah&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey there! I'm Ronald Kipchirchir
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 :desktop_computer: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
