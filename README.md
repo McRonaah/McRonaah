@@ -17,15 +17,15 @@
 </div>
  <img src="https://komarev.com/ghpvc/?username=McRonaah&style=flat-square&color=blue" alt=""/>
 </div>
-:desktop_computer: About Me :
+:💓: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
 
--:telescope: I’m working as a Software Engineer and an open-source contributer.
-- 💬 Ask me about JavaScript, Reactjs, Ruby & Ruby on rails.
-- 🔭 I’m currently working on TypeScript and AngularJs
-- 👯 I’m looking to collaborate on Frontend Development
+-:poop: I’m working as a Software Engineer and an open-source contributer.
+- :art: Ask me about JavaScript, Reactjs, Ruby & Ruby on rails.
+- :lipstick: I’m currently working on TypeScript and AngularJs
+- :white_check_mark: I’m looking to collaborate on Frontend Development
 - :seedling: I do bloging & exploring Technical writing.
-- 📫 How to reach me: email: ronaldcheruiyot342@gmail.com
+- :green_heart: How to reach me: email: ronaldcheruiyot342@gmail.com
 
 :hammer_and_wrench: Languages and Tools :
 <div>
