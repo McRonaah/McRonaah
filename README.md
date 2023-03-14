@@ -41,17 +41,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ## :fire: My Stats :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=McRonaah&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcronaah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcronaah&show_icons=true&locale=en&layout=compact" alt="ronaah" /></p>
+<p margin-top="1rem">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mcronaah&show_icons=true&locale=en" alt="ronaah" /></p>
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mcronaah&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats) -->
-## :writing_hand: Blog Posts :
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcronaah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mcronaah&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<!-- ## :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Moringa School Experience](https://dev.to/ronaah_254/my-personal-profilemoringa-school-experience-3dg9)
+<!-- - [Moringa School Experience](https://dev.to/ronaah_254/my-personal-profilemoringa-school-experience-3dg9)
 - [ChatGPT won't replace Developers](https://www.linkedin.com/posts/ronald-kipchirchir-034983246_why-chatgpt-wont-replace-developers-the-activity-7026219834505846784-X_B4?utm_source=share&utm_medium=member_desktop)
 - [Cristiano Ronaldo The Football Genius](https://medium.com/@ronaah254/cristiano-ronaldo-the-football-genius-3282f5077bbb)
-- [CodeJIKA ORG](https://medium.com/@ronaah254/codejika-program-learn-to-code-ac2dfd672782)
+- [CodeJIKA ORG](https://medium.com/@ronaah254/codejika-program-learn-to-code-ac2dfd672782) -->
 <!-- BLOG-POST-LIST:END -->
